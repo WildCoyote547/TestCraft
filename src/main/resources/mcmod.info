@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testcraft",
+  "name": "Testcraft",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["WildCoyote"],
+  "credits": "Cazsius(MrTrollNugNug)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
